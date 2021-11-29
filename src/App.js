@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Вы на ветке main. Этот код готов пойти в production!
+          Добро пожаловать! Вы на ветке main. Этот код готов пойти в production!
         </p>
         <p>
           Редактируйте <code>src/App.js</code> и сохраните для обновления.
@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Изучаем реакт!
+          Изучаем реакт! Смотрим видосики :)
         </a>
       </header>
     </div>
